@@ -30,7 +30,7 @@ Settings (SMS messaging):
 My UI designs keep users in mind by focusing on content order, grouping, and transitions. Additionally, I focused on the Android Developers design guidelines for visual and navigation patterns along with the quality guidelines for compatibility, performance, security, and more.
 
 ### How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
-To ensure that my code, apps, and software I write are maintainable, readable, and adaptable it is important to evaluate the requirements from the user. I focused
+To ensure that my code, apps, and software I write are maintainable, readable, and adaptable it is important to evaluate the requirements from the user. I followed the classic Software Development Life-Cycle (SDLC), by building the project in smaller sections it allowed me to meet smaller goals and easily combine the project together at the end. My design approach can easily be applied in future work. Making sections of my code modular and repeatable is a tatic that saves time on future projects.
 
 ### How did you test to ensure your code was functional? Why is this process important and what did it reveal?
 Using Android Studio's built in Emulator allows for you to run code on a device to test the different components of the application.
