@@ -30,12 +30,15 @@ Settings (SMS messaging):
 My UI designs keep users in mind by focusing on content order, grouping, and transitions. Additionally, I focused on the Android Developers design guidelines for visual and navigation patterns along with the quality guidelines for compatibility, performance, security, and more.
 
 ### How did you approach the process of coding your app? What techniques or strategies did you use? How could those be applied in the future?
-
+To ensure that my code, apps, and software I write are maintainable, readable, and adaptable it is important to evaluate the requirements from the user. I focused
 
 ### How did you test to ensure your code was functional? Why is this process important and what did it reveal?
-
+Using Android Studio's built in Emulator allows for you to run code on a device to test the different components of the application.
 
 ### Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
-
+I have never created an app or coded using Android Studio before, so the largest challenge for me was learning a new tool. Overcoming the challenge of using a new tool can be difficult, however, for me it is trial and error.
 
 ### In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
+The specific component from the mobile app that I demonstrates my knowledge, skills, and experience the best is the connection to the database, focusing on the fundamentals of C.R.U.D. (Create, Read, Update, Delete) gives us a systematic approach of creating and testing a database on a high level.
+
+
