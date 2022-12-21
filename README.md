@@ -1,5 +1,14 @@
 # Android-Invintory-App
 
+
+<img src="inventory_app_login.png" alt="inventory_app_login" width="200"/><img src="inventory_app_home.png" alt="inventory_app_home" width="200"/>
+
+<img src="inventory_app_additem.png" alt="inventory_app_additem" width="200"/><img src="inventory_app_settings.png" alt="inventory_app_settings" width="200"/>
+
+<img src="inventory_app_xml_example.png" alt="inventory_app_xml_example" width="500"/>
+
+
+
 ### Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?
 The goal of this application is to be used to track items in a warehouse. To meet user needs this application includes the following:
 
