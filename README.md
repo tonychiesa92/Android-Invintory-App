@@ -1,9 +1,9 @@
 # Android-Invintory-App
 
 
-<img src="inventory_app_login.png" alt="inventory_app_login" width="200"/><img src="inventory_app_home.png" alt="inventory_app_home" width="200"/>
+<img src="inventory_app_login.png" alt="inventory_app_login" width="200"/><img src="inventory_app_home.png" alt="inventory_app_home" width="200"/><img src="inventory_app_additem.png" alt="inventory_app_additem" width="200"/><img src="inventory_app_settings.png" alt="inventory_app_settings" width="200"/>
 
-<img src="inventory_app_additem.png" alt="inventory_app_additem" width="200"/><img src="inventory_app_settings.png" alt="inventory_app_settings" width="200"/>
+
 
 <img src="inventory_app_xml_example.png" alt="inventory_app_xml_example" width="500"/>
 
